@@ -1,26 +1,3 @@
-# Using deep dream to visualize features
+# Methods for feature visualization of deep neural network
 
-Addition to tutorial by Alexander Mordvintsev
-
-
-## Additional content
-
-- Application to clemson football statium
-
-- Visualization of different layers and their respective feature channels
-
-
-
-## Install
-
-- Python 3.5
-
-- TensorFlow
-
-- NumPy
-
-- Jupyter Notebook
-
-## Run
-
-Run `jupyter notebook` in the directory then run deepdream.ipynb
+look in feature_vizualization for visualization through deep dream
